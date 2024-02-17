@@ -1,8 +1,9 @@
 # running hasil test 1 
-* studi kasus : *
+<blockquote>studi kasus : 
 buatlah 2 function yang digunakan untuk generate token dan memverifikasi token. Dengan ketentuan seperti ini. 
 a. function generate dipanggil menggunakan parameter user, ketika dipanggil generate random string, masukkan kedalam array dengan indexnya adalah nama user. satu index dapat memuat lebih dari 1 token, jadi ketika di panggil 2 kali dengan user yang sama dia akan simpan 2 token hasil generate. dalam 1 index maksimal dapat menampung 10 token berbeda, jika lebih dari 10 maka buang token yang paling awal dibuat. setelah itu return token hasil generate.
 b. function verify_token dipanggil menggunakan parameter user dan token, ketika token yang dicari ketemu maka hapus token array tersebut dan return true, jika tidak ketemu return false 
+  </blockquote>
 ![1](https://github.com/auditasya12/test-array-php/assets/68654073/78c142ea-bf61-4e15-b1e7-168542ccba81)
 
 # running hasil test 2 
