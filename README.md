@@ -1,4 +1,4 @@
-### running hasil test 1 
+## running hasil test 1 
 *studi kasus :
 buatlah 2 function yang digunakan untuk generate token dan memverifikasi token. Dengan ketentuan seperti ini. 
 a. function generate dipanggil menggunakan parameter user, ketika dipanggil generate random string, masukkan kedalam array dengan indexnya adalah nama user. satu index dapat memuat lebih dari 1 token, jadi ketika di panggil 2 kali dengan user yang sama dia akan simpan 2 token hasil generate. dalam 1 index maksimal dapat menampung 10 token berbeda, jika lebih dari 10 maka buang token yang paling awal dibuat. setelah itu return token hasil generate.
